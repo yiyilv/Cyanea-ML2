@@ -1,0 +1,71 @@
+file_name,predicted_mode,predicted_label,true_mode,true_label,is_correct
+13.csv,1,Watching Videos,1,Watching Videos,True
+14.csv,3,Other Activities,1,Watching Videos,False
+15.csv,2,Browsing Infinite Feed,1,Watching Videos,False
+16.csv,1,Watching Videos,1,Watching Videos,True
+17.csv,2,Browsing Infinite Feed,1,Watching Videos,False
+18.csv,1,Watching Videos,1,Watching Videos,True
+19.csv,2,Browsing Infinite Feed,1,Watching Videos,False
+20.csv,1,Watching Videos,1,Watching Videos,True
+21.csv,1,Watching Videos,1,Watching Videos,True
+22.csv,3,Other Activities,3,Other Activities,True
+23.csv,1,Watching Videos,1,Watching Videos,True
+24.csv,1,Watching Videos,1,Watching Videos,True
+25.csv,1,Watching Videos,1,Watching Videos,True
+26.csv,1,Watching Videos,1,Watching Videos,True
+27.csv,1,Watching Videos,2,Browsing Infinite Feed,False
+28.csv,1,Watching Videos,1,Watching Videos,True
+29.csv,1,Watching Videos,1,Watching Videos,True
+30.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+31.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+32.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+33.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+34.csv,2,Browsing Infinite Feed,3,Other Activities,False
+35.csv,3,Other Activities,3,Other Activities,True
+36.csv,3,Other Activities,3,Other Activities,True
+37.csv,3,Other Activities,3,Other Activities,True
+38.csv,1,Watching Videos,3,Other Activities,False
+39.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+40.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+41.csv,1,Watching Videos,2,Browsing Infinite Feed,False
+42.csv,1,Watching Videos,1,Watching Videos,True
+43.csv,1,Watching Videos,1,Watching Videos,True
+44.csv,1,Watching Videos,1,Watching Videos,True
+45.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+46.csv,1,Watching Videos,2,Browsing Infinite Feed,False
+47.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+48.csv,1,Watching Videos,2,Browsing Infinite Feed,False
+49.csv,1,Watching Videos,1,Watching Videos,True
+50.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+51.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+52.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+53.csv,1,Watching Videos,1,Watching Videos,True
+54.csv,3,Other Activities,3,Other Activities,True
+55.csv,3,Other Activities,3,Other Activities,True
+56.csv,1,Watching Videos,2,Browsing Infinite Feed,False
+57.csv,1,Watching Videos,1,Watching Videos,True
+58.csv,1,Watching Videos,1,Watching Videos,True
+59.csv,1,Watching Videos,1,Watching Videos,True
+60.csv,1,Watching Videos,1,Watching Videos,True
+61.csv,3,Other Activities,3,Other Activities,True
+62.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+63.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+64.csv,3,Other Activities,3,Other Activities,True
+65.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+66.csv,1,Watching Videos,1,Watching Videos,True
+67.csv,2,Browsing Infinite Feed,1,Watching Videos,False
+68.csv,2,Browsing Infinite Feed,1,Watching Videos,False
+69.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+70.csv,2,Browsing Infinite Feed,2,Browsing Infinite Feed,True
+gesture_data 10.csv,1,Watching Videos,1,Watching Videos,True
+gesture_data 11.csv,1,Watching Videos,1,Watching Videos,True
+gesture_data 2.csv,1,Watching Videos,1,Watching Videos,True
+gesture_data 3.csv,1,Watching Videos,3,Other Activities,False
+gesture_data 4.csv,3,Other Activities,2,Browsing Infinite Feed,False
+gesture_data 5.csv,1,Watching Videos,1,Watching Videos,True
+gesture_data 6.csv,3,Other Activities,2,Browsing Infinite Feed,False
+gesture_data 7.csv,1,Watching Videos,1,Watching Videos,True
+gesture_data 8.csv,3,Other Activities,3,Other Activities,True
+gesture_data 9.csv,3,Other Activities,3,Other Activities,True
+gesture_data.csv,1,Watching Videos,2,Browsing Infinite Feed,False
+gesture_data12.csv,2,Browsing Infinite Feed,1,Watching Videos,False

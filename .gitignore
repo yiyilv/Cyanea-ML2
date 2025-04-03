@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+venv_tf/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables files
+.env
+
+# Build and packaging
+*.egg-info/
+dist/
+build/
+
+# Model files (these are usually large)
+models/
+
+# Output results
+prediction_results.csv
+*.png
+
+# System and editor configuration
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Log files
+*.log
+
+# Jupyter files
+.ipynb_checkpoints/
+*.ipynb
