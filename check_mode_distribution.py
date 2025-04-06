@@ -13,7 +13,6 @@ def analyze_browsing_mode_distribution(data_dir):
             try:
                 df = pd.read_csv(file_path)
                 if 'browsing_mode' in df.columns:
-                    # 获取最常见的browsing_mode作为文件的mode
                     mode = df['browsing_mode'].mode()[0]
                     mode_counts[mode] += 1
                     file_counts[mode].append(file)
